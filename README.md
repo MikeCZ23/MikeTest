@@ -1,2 +1,2 @@
 # MikeTest
-Nejaky text ... Asi tohle. A tohle
+Nejaky text ... Asi tohle
